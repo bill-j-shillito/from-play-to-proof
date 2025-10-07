@@ -10,13 +10,13 @@ var ptx_lunr_docs = [
   "body": "  "
 },
 {
-  "id": "sec-section-name",
+  "id": "welcome-sec",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "welcome-sec.html",
   "type": "Section",
   "number": "1.1",
   "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "body": " Section Title  Stuff will go here.  More stuff will go here.  Even more stuff will go here.  "
 },
 {
   "id": "backmatter-2",
