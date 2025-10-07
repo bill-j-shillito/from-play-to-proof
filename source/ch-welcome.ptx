@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="welcome" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Welcome to Mathematical Thinking!</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <section xml:id="welcome-sec-intro">
+    <title>What is Mathematical Thinking?</title>
+    <p>Stuff will go here.</p>
+    <p>More stuff will go here.</p>
+    <p>Even more stuff will go here.</p>
+  </section>
+
+  <section xml:id="welcome-sec-activity">
+    <title>The Game of Geography</title>
+    <p>The game of Geography is played by two or more players. The first player names a place, such as a city, state, or country. The next player must name another place that begins with the last letter of the previous place named. For example, if the first player says "Alabama," the next player might say "Alaska." The game continues in this way, with each player naming a place that starts with the last letter of the place named by the previous player. A player is out of the game if they cannot think of a valid place to name within a reasonable amount of time. The last player remaining in the game is the winner.</p>
+    <p>Here is an example of a game of Geography played by two players using states in the United States:</p>
+    <ol>
+      <li>Player 1: Iowa</li>
+      <li>Player 2: Alaska</li>
+      <li>Player 1: Arizona</li>
+      <li>Player 2: Arkansas</li>
+      <li>Player 1: South Carolina</li>
+      <li>Player 2: Alabama</li>
+    </ol>
+    <p>At this point, Player 1 needs to name a state that begins with "A", but all such states have been named! Therefore Player 2 wins.</p>
+    <p>Try playing the game of Geography with a partner or a small group. You can choose to use states, countries, or cities as your places. Have fun and see how long you can keep the game going!</p>
+
+    <!--At this point, students are not expected to be able to prove anything; rather, all IBL questions are just meant to get them thinking of what they notice.-->
+    <ol>
+      <li>Play the game of Geography a few times with a partner or small group. You can choose to use states, countries, or cities as your places.</li>
+      <li>What do you notice about the game? Are there any strategies that seem to work well?</li>
+      <li>Do you think it is possible for one player to always win the game? Why or why not?</li>
+      <li>Can you think of any variations of the game that might make it more interesting or challenging?</li>
+    </ol>
+  </section>
+
+  <section xml:id="welcome-sec-exercises">
+    <title>Exercises</title>
+    <p>Stuff will go here.</p>
+    <p>More stuff will go here.</p>
+    <p>Even more stuff will go here.</p>
+  </section>
+
+  <!-- include sections -->
+  <!-- <xi:include href="sec-section-name.ptx" /> -->
+
+</chapter>
